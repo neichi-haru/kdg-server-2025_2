@@ -1,3 +1,5 @@
+FROM: hoge
+
 FROM ubuntu:24.04
 
 # 必要なパッケージのインストール
